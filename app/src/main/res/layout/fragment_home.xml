@@ -7,7 +7,7 @@
     android:padding="24dp"
     tools:context=".fragments.HomeFragment">
 
-    <!-- TODO: Update blank fragment layout -->
+
 
 
     <Button
