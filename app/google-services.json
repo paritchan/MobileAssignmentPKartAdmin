@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "879676363390",
+    "project_id": "pkartadmin-6493f",
+    "storage_bucket": "pkartadmin-6493f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879676363390:android:c3f4159286936393017e2f",
+        "android_client_info": {
+          "package_name": "com.example.pkartadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABgeMKBxk-DHTNg93EUTaqj8FkzH7Krbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
